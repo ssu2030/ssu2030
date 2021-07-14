@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dongho lee
 - 👀 I’m interested in operating system programming and web programing 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning Web, React
 - 💞️ I’m looking to collaborate on web front and server developer
 - 📫 How to reach me ssu2030@naver.com
 
