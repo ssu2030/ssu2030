@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dongho lee
-- 👀 I’m interested in operating system programming and web programing 
+- 👀 I’m interested in web programing 
 - 🌱 I’m currently learning Web, React
 - 📫 How to reach me ssu2030@naver.com
 
